@@ -39,6 +39,19 @@ ____
 👉 https://youtu.be/MwFJ_Dpuwa8?si=KidGdbn03HemkJom ⬅️
 ____
 
+**Source Code**
+[The complete source code for this project can be found here.](https://buymeacoffee.com/sengideons/e/438711)
+
+____
+
+**Contact Me**
+- 📺 **YouTube:**  https://www.youtube.com/@SenGideons
+- 📈 **Tiktok:**  https://www.tiktok.com/@sengideons
+- 🐦 **Twitter:**  https://www.twitter.com/sengideons
+- 📸 **Instagram:** https://www.instagram.com/sengideons
+- 📘 **Facebook:** https://www.fb.com/sengideons
+- 🔗 **Website:** https://www.sengideons.com 
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -47,17 +60,5 @@ ____
 git clone https://github.com/sengideons/sencaffee-coffee-website.git
 cd sencaffee-coffee-website
 
-**Source Code**
-[The complete source code for this project can be found here.](https://buymeacoffee.com/sengideons/e/438711)
-
-**Contact**
-- 📺 **YouTube:**  https://www.youtube.com/@SenGideons
-- 📈 **Tiktok:**  https://www.tiktok.com/@sengideons
-- 🐦 **Twitter:**  https://www.twitter.com/sengideons
-- 📸 **Instagram:** https://www.instagram.com/sengideons
-- 📘 **Facebook:** https://www.fb.com/sengideons
-- 🔗 **Website:** https://www.sengideons.com 
-
 HTML, CSS, GUI, Coffee Shop, Modern UI, JavaScript Projects, HTML GUI, Coding, Programming, Open Source, Tutorial
-
 
